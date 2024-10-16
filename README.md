@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Backend Python<br>- Java Developer<br>- Student  Systems Analysis and Development</p>
+<p align="left">- Backend Python<br>- Future Data Scientist<br>- Student Systems Analysis and Development</p>
 
 ###
 
