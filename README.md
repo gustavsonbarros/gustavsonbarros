@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">- Backend Python<br>- Future Data Scientist<br>- Student Systems Analysis and Development</p>
+<p align="left">- 🎓 Student of Systems Analysis and Development at IFPE  
+🔬 Researcher in projects focused on Machine Learning applied to healthcare</p>
 
 ###
 
